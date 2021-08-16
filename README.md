@@ -30,6 +30,8 @@ Athira V S : https://github.com/athira-vs/Console_ERP_System/tree/master
 
 Sufail Ps : https://github.com/sufailps/erp_project
 
+Thanushree K C : https://github.com/Thanushree28/ERP_console_mini_project
+
 
 Fruit Shop:
 
@@ -58,5 +60,7 @@ Govind Gopal : https://github.com/govindsgopal/Fruit_shop
 Athira V S : https://github.com/athira-vs/fruit_shop
 
 Sufail P s : https://github.com/sufailps/fruit_shop
+
+Thanushree K C : https://github.com/Thanushree28/Fruit_Shop
 
 
